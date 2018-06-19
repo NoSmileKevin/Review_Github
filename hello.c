@@ -1,4 +1,5 @@
-#include<stdio>
+#include <stdio.h>
 void main(){
-	print("Hello Word");
+	printf("Hello World\n");
+	printf("There is only one World\n");
 }
